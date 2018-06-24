@@ -15,16 +15,16 @@ These instructions will get you a copy of the project up and running on your loc
 The Code is written in Python 3.6.5 . If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. 
 
 To install pip run in the command Line
-```Python
-python -m ensurepip --default-pip
+```
+python -m ensurepip -- default-pip
 ``` 
 to upgrade it 
-```Python
-python -m pip install --upgrade pip setuptools wheel
+```
+python -m pip install -- upgrade pip setuptools wheel
 ```
 to upgrade Python
-```Python
-pip install python --upgrade
+```
+pip install python -- upgrade
 ```
 
 ## Contributing
