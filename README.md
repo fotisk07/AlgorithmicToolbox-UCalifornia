@@ -1,11 +1,11 @@
 # AlgorithmicToolbox-UCalifornia
 THis repository contains the solutions in `Python 3` from the programming assignements of the Algorithmic Toolbox Tool, offered by Coursera.This is a repo in Porogress, I will be commiting as soon as I can the rest of the files.
-This repo contains the solutions from all the major programming assignements in this Coursera Course.
-1. Week 1 Contains some easy programming tasks
-2. Week 2 has some exercises fro algorithmic "warm up"
-3. Week 3 contains `"Greedy" Algorithms`
-4. In Week 4 we explore the concept of `divide and conquer Algorithms`
-5.In Week 5 & 6 dynamic programming is being used
+
+1. Week 1 Contains some easy programming tasks.
+2. Week 2 has some exercises fro algorithmic "warm up".
+3. Week 3 contains `"Greedy" Algorithms`.
+4. In Week 4 we explore the concept of `divide and conquer Algorithms`.
+5. In Week 5 & 6 `dynamic programming` is being used
 
 ## Getting Started
 
